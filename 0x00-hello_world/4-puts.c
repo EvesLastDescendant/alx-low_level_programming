@@ -2,8 +2,11 @@
 
 int main(void)
 {
-	char _str[];/*variable declaration*/
+	/* declaration and initialisation*/
+
 	_str[] = "Programming is like building a multilingual puzzle \n";
+	
 	puts(_str);
+	
 	return (0);
 }
