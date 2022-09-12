@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*headers above. next function main*/
 
 /* main - Entry point
  *
